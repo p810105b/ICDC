@@ -1,2 +1,2 @@
 # ICDC
-only RTL
+Only RTL and tb
